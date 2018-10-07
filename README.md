@@ -48,3 +48,5 @@ Credits
 
 License
 -------
+
+NOT LICENSED FOR ANY COPY/USE
